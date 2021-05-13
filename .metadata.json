@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lutz",
+    "oncran": true
+  },
+  {
+    "package": "rmapshaper",
+    "oncran": true
+  }
+]
