@@ -8,8 +8,10 @@
 	url = https://github.com/ateucher/lutz
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rmapshaper"]
 	path = rmapshaper
 	url = https://github.com/ateucher/rmapshaper
 	shallow = true
 	registered = true
+	oncran = true
