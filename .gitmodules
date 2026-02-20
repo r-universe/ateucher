@@ -1,7 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ateucher/ateucher.r-universe.dev
 	branch = HEAD
+[submodule "bcdata"]
+	path = bcdata
+	url = https://github.com/bcgov/bcdata
+[submodule "bcmaps"]
+	path = bcmaps
+	url = https://github.com/bcgov/bcmaps
 [submodule "lutz"]
 	path = lutz
 	url = https://github.com/ateucher/lutz
